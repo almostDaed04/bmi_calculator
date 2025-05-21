@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="headline">BMI Calculator</string>
+    <string-array name="age_array">
+        <item>Adult(18+)</item>
+        <item>Child(18-)</item>
+    </string-array>
+
+    <string-array name="height_array">
+        <item>cm</item>
+        <item>ft and in</item>
+    </string-array>
+
+    <string-array name="bmi_array">
+        <item>Underweight</item>
+        <item>Normal</item>
+        <item>Overweight</item>
+        <item>Obesity</item>
+    </string-array>
+
+    <string-array name="weight_array">
+        <item>kgs</item>
+        <item>pounds</item>
+    </string-array>
+
+    <string name="edtWeight">Enter your Weight</string>
+    <string name="edtCms">Cms</string>
+    <string name="btnCalculate">Calculate</string>
+
+    <string-array name="navigation_icon">
+        <item>BMI Calculator</item>
+        <item>Mass Convertor</item>
+        <item>Length Convertor</item>
+        <item>Area Convertor</item>
+        <item>Temperature Convertor</item>
+    </string-array>
+</resources>
